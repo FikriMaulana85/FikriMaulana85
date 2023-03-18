@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Fikri Maulana.</h1>
+<h1 align="center">Hello, I'm Fikri Maulana</h1>
 <h3 align="center">Programming is a hobby.</h3>
 
 
