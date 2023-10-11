@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Fikri Maulana</h1>
+<h1 align="center">Hello, I'm YuF1Dev</h1>
 <h3 align="center">Programming is a hobby.</h3>
 
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 This repository is only for learning.
 
-- 📫 How to reach me **mrfikrimaulana85@gmail.com**
+- 📫 How to reach me **-**
 
 - ⚡ I love playing strategy games, and watching intelligence anime.
 
