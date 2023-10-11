@@ -23,4 +23,4 @@
 </p>
 
 ## ❤ Followers
-<a href="https://github.com/fikrimaulana85?tab=followers"><img src="https://img.shields.io/github/followers/fikrimaulana85?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/yuf1dev?tab=followers"><img src="https://img.shields.io/github/followers/yuf1dev?label=Followers&style=social" alt="GitHub Badge"></a>
